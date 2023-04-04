@@ -1,0 +1,12 @@
+[19-Aug-2018 02:23:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onsorce/public_html/asia/wp-content/themes/mall/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/themes/mall/index.php on line 13
+[19-Oct-2018 11:38:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onsorce/public_html/asia/wp-content/themes/mall/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/themes/mall/index.php on line 13
+[12-Dec-2018 23:36:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onsorce/public_html/hodomy/wp-content/themes/mall/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/hodomy/wp-content/themes/mall/index.php on line 13

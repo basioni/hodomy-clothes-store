@@ -1,0 +1,8 @@
+[15-Aug-2018 05:14:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/inc/project/projects-posttype.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/inc/project/projects-posttype.php on line 222
+[18-Aug-2018 01:59:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/inc/project/projects-posttype.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/inc/project/projects-posttype.php on line 222

@@ -1,0 +1,34 @@
+[14-Aug-2018 11:53:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-composer-lightbox-functions.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-composer-lightbox-functions.php on line 17
+[14-Aug-2018 11:53:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-composer-templates-posttype.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-composer-templates-posttype.php on line 46
+[14-Aug-2018 11:53:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-composer-functions.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-composer-functions.php on line 111
+[15-Aug-2018 04:35:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-editor-plugin-register.php:24
+Stack trace:
+#0 /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-editor-plugin-register.php(62): CMSMastersShortcodes->__construct()
+#1 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-editor-plugin-register.php on line 24
+[16-Aug-2018 22:35:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-composer-lightbox-functions.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-composer-lightbox-functions.php on line 17
+[17-Aug-2018 22:34:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-composer-templates-posttype.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-composer-templates-posttype.php on line 46
+[18-Aug-2018 07:22:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-composer-functions.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-composer-functions.php on line 111
+[03-Sep-2018 05:06:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-editor-plugin-register.php:24
+Stack trace:
+#0 /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-editor-plugin-register.php(62): CMSMastersShortcodes->__construct()
+#1 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/cmsmasters-editor-plugin-register.php on line 24

@@ -1,0 +1,8 @@
+[14-Aug-2018 11:54:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/inc/editor-additions.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/inc/editor-additions.php on line 27
+[16-Aug-2018 03:35:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/inc/editor-additions.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/framework/inc/editor-additions.php on line 27

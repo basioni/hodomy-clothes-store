@@ -1,0 +1,10 @@
+[14-Aug-2018 07:59:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/cmsmasters-content-composer.php:38
+Stack trace:
+#0 /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/cmsmasters-content-composer.php(1815): Cmsmasters_Content_Composer->__construct()
+#1 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/cmsmasters-content-composer.php on line 38
+[14-Aug-2018 09:07:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/cmsmasters-content-composer.php:38
+Stack trace:
+#0 /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/cmsmasters-content-composer.php(1815): Cmsmasters_Content_Composer->__construct()
+#1 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/cmsmasters-content-composer.php on line 38

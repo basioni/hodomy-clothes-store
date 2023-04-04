@@ -1,0 +1,8 @@
+[16-Aug-2018 04:40:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/inc/like/likes-posttype.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/inc/like/likes-posttype.php on line 45
+[17-Aug-2018 15:57:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/inc/like/likes-posttype.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/onsorce/public_html/asia/wp-content/plugins/cmsmasters-content-composer/inc/like/likes-posttype.php on line 45

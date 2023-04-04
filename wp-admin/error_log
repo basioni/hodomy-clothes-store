@@ -1,0 +1,42 @@
+[12-Aug-2018 13:42:16 UTC] خطأ Unknown column 'as_' in 'field list' في قاعدة بيانات ووردبريس  للاستعلام 
+[12-Aug-2018 14:05:31 UTC] PHP Warning:  sprintf(): Too few arguments in /home/onsorce/public_html/asia/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[12-Aug-2018 14:05:31 UTC] PHP Warning:  sprintf(): Too few arguments in /home/onsorce/public_html/asia/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[12-Aug-2018 14:05:31 UTC] PHP Warning:  sprintf(): Too few arguments in /home/onsorce/public_html/asia/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[12-Aug-2018 14:05:31 UTC] PHP Warning:  sprintf(): Too few arguments in /home/onsorce/public_html/asia/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[12-Aug-2018 14:05:34 UTC] PHP Warning:  sprintf(): Too few arguments in /home/onsorce/public_html/asia/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[12-Aug-2018 14:05:35 UTC] PHP Warning:  sprintf(): Too few arguments in /home/onsorce/public_html/asia/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[12-Aug-2018 14:05:35 UTC] PHP Warning:  sprintf(): Too few arguments in /home/onsorce/public_html/asia/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[12-Aug-2018 14:05:37 UTC] PHP Warning:  sprintf(): Too few arguments in /home/onsorce/public_html/asia/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[12-Aug-2018 14:05:39 UTC] PHP Warning:  sprintf(): Too few arguments in /home/onsorce/public_html/asia/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[12-Aug-2018 14:05:40 UTC] PHP Warning:  sprintf(): Too few arguments in /home/onsorce/public_html/asia/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[12-Aug-2018 14:05:41 UTC] PHP Warning:  sprintf(): Too few arguments in /home/onsorce/public_html/asia/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[07-Nov-2018 21:02:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/onsorce/public_html/asia/wp-includes/class-wp-locale.php:231
+Stack trace:
+#0 /home/onsorce/public_html/asia/wp-includes/class-wp-locale.php(112): WP_Locale->init()
+#1 /home/onsorce/public_html/asia/wp-includes/load.php(927): WP_Locale->__construct()
+#2 /home/onsorce/public_html/asia/wp-includes/load.php(208): wp_load_translations_early()
+#3 /home/onsorce/public_html/asia/wp-settings.php(63): wp_maintenance()
+#4 /home/onsorce/public_html/asia/wp-config.php(82): require_once('/home/onsorce/p...')
+#5 /home/onsorce/public_html/asia/wp-load.php(37): require_once('/home/onsorce/p...')
+#6 /home/onsorce/public_html/asia/wp-admin/admin-ajax.php(22): require_once('/home/onsorce/p...')
+#7 {main}
+  thrown in /home/onsorce/public_html/asia/wp-includes/class-wp-locale.php on line 231
+[07-Nov-2018 21:02:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/onsorce/public_html/asia/wp-includes/class-wp-locale.php:231
+Stack trace:
+#0 /home/onsorce/public_html/asia/wp-includes/class-wp-locale.php(112): WP_Locale->init()
+#1 /home/onsorce/public_html/asia/wp-includes/load.php(927): WP_Locale->__construct()
+#2 /home/onsorce/public_html/asia/wp-includes/load.php(208): wp_load_translations_early()
+#3 /home/onsorce/public_html/asia/wp-settings.php(63): wp_maintenance()
+#4 /home/onsorce/public_html/asia/wp-config.php(82): require_once('/home/onsorce/p...')
+#5 /home/onsorce/public_html/asia/wp-load.php(37): require_once('/home/onsorce/p...')
+#6 /home/onsorce/public_html/asia/wp-admin/admin-ajax.php(22): require_once('/home/onsorce/p...')
+#7 {main}
+  thrown in /home/onsorce/public_html/asia/wp-includes/class-wp-locale.php on line 231
+[07-Nov-2018 20:29:35 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[07-Nov-2018 20:36:25 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[07-Nov-2018 20:45:29 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[07-Nov-2018 20:45:51 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[07-Nov-2018 20:50:09 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[11-Nov-2018 12:54:29 UTC] UPDATE as_posts SET post_type = 'wc_category_slider' WHERE post_type = 'woocatslider'
+[11-Nov-2018 12:54:29 UTC] UPDATE as_posts SET post_type = 'wc_category_slider' WHERE post_type = 'woocatsliderpro'
+[23-Nov-2018 17:04:23 UTC] خطأ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1 في قاعدة بيانات ووردبريس  للاستعلام 0 القادم من do_action('wp_ajax_delete-plugin'), WP_Hook->do_action, WP_Hook->apply_filters, wp_ajax_delete_plugin, delete_plugins, uninstall_plugin, include('/plugins/woo-variation-swatches/uninstall.php')
