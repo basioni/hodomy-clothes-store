@@ -60,7 +60,7 @@
     "servedir": "*",
     "cli": "*",
     "cli-table": "*",
-    "karma": "~ 0.10",
+    "karma": "~ 6.4",
     "karma-mocha": "*"
   },
   "scripts": {
